@@ -1,3 +1,4 @@
+## Fault Tolerant Model-Parallel Deep Learning in Edge Computing Networks
 Data Collection
 Actor Critic RL
 Regresssion
